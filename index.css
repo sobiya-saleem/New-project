@@ -1,0 +1,33 @@
+body {
+  margin: 20px;
+  padding:0;
+  background-color:floralwhite;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+button{
+  background-color: lightgrey;
+  color: black;
+  margin: 10px;
+  border-radius: 5px;
+  max-width: 30em;
+  height: 2.5em;
+}
+h1{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:lightcoral;
+}
+input{
+  height:2em;
+  background-color: beige;
+  color: gray;
+}
+
